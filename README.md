@@ -144,7 +144,7 @@ DOCTYPE html
               </center>
               </section>
                 <footer>
-                  <p>&copy;2003 Shamiha.A</p>
+                  <p>&copy;2003 Ranjani.S</p>
                 </footer>
                 <script>
                   //smooth scrolling to section when clicking on navigation links
